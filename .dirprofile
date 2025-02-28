@@ -1,0 +1,4 @@
+deactivate
+source .venv/bin/activate
+
+echo "activating venv"
